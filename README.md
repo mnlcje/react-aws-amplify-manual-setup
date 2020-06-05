@@ -1,3 +1,10 @@
+## References
+
+https://www.youtube.com/watch?v=EaDMG4amEfk&t=836s
+https://www.youtube.com/watch?v=2SaO1Pvah2k&t=471s
+https://www.youtube.com/watch?v=-K85GjI5SQ0&t=851s
+
+
 ## Hexal Energy app
 
 This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
